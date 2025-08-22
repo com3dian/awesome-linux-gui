@@ -12,10 +12,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Convert README to index.html
-        run: |
-          npm install markdown-to-html
-          npx markdown-to-html README.md index.html
+      - name: Convert README to HTML
+        uses: anmol098/md-to-html-action@v2.0.0
+        with:
+          markdown_file: 'README.md'
+          html_file: 'index.html'
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
