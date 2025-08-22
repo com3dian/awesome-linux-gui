@@ -2,7 +2,16 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Linux GUI applications, inspired by awesome-mac.
+A curated list of awesome Linux **GUI** applications, inspired by awesome-mac.
+I have a desire on free and open source software, therefore 
+
+**Explanation**
+
+ [Awesome Command Line Apps](./command-line-apps.md)
+
+![Open-Source Software][OSS Icon] means **open source**. click the icon to see the item's repository;\
+![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
+
 
 ## Contents
 
@@ -29,3 +38,7 @@ A curated list of awesome Linux GUI applications, inspired by awesome-mac.
 ## Contributing
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+[OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
+[Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
+[community-driven-icon]: https://jaywcjlove.github.io/sb/ico/min-community.svg
