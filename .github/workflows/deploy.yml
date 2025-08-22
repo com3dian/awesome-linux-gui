@@ -14,8 +14,8 @@ jobs:
 
       - name: Convert README to index.html
         run: |
-          npm install -g markdown-to-html
-          markdown-to-html README.md index.html
+          npm install markdown-to-html
+          npx markdown-to-html README.md index.html
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
