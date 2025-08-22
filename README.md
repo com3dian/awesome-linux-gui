@@ -21,19 +21,19 @@ I have a desire on free and open source software, therefore
   - [Utilities](#utilities)
 - [Contributing](#contributing)
 
-## Applications
+## Development Tools
 
-### Development
+### Text Editors
 
-- [VS Code](https://code.visualstudio.com/) - A powerful and popular code editor.
+* [VS Code](https://code.visualstudio.com/) - A powerful and popular code editor.
 
-### Productivity
+## Productivity
 
-- [LibreOffice](https://www.libreoffice.org/) - A free and open-source office suite.
+* [LibreOffice](https://www.libreoffice.org/) - A free and open-source office suite.
 
-### Utilities
+## Utilities
 
-- [GParted](https://gparted.org/) - A free partition editor for graphically managing your disk partitions.
+* [GParted](https://gparted.org/) - A free partition editor for graphically managing your disk partitions.
 
 ## Contributing
 
