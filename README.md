@@ -1,4 +1,4 @@
-# Awesome Linux GUI
+# [Awesome Linux GUI](https://com3dian.github.io/awesome-linux-gui/)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -7,10 +7,9 @@ I have a desire on free and open source software, therefore
 
 **Explanation**
 
- [Awesome Command Line Apps](./command-line-apps.md)
-
 ![Open-Source Software][OSS Icon] means **open source**. click the icon to see the item's repository;\
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
+![Community][community-driven-icon] means community driven;\
 
 
 ## Contents
