@@ -7,7 +7,7 @@ For many years, Linux GUI users struggled to find software that was both modern,
 **Explanation**
 
 <img src="icons/bat.png" height="16"/> means **open source**. click the icon to see the item's repository;\
-<img src="https://jaywcjlove.github.io/sb/ico/min-free.svg" height="16"/> means **free** to use, or **free** personal license;\
+<img src="icons/crow.png" height="16"/> means **free** to use, or **free** personal license;\
 <img src="icons/rhino.png" height="16"/> means community driven;
 
 
@@ -27,16 +27,16 @@ For many years, Linux GUI users struggled to find software that was both modern,
 
 ## Productivity
 
-* [LibreOffice](https://www.libreoffice.org/) - A free and open-source office suite. <img src="icons/bat.png" height="16"/> <img src="https://jaywcjlove.github.io/sb/ico/min-free.svg" height="16"/>
+* [LibreOffice](https://www.libreoffice.org/) - A free and open-source office suite. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/>
 
 ## Media & Entertainment
 
-* [Foliate](https://johnfactotum.github.io/foliate/) - A sleek, modern ebook reader that delivers an excellent reading experience for EPUB, MOBI, and Kindle formats. <img src="icons/bat.png" height="16"/> <img src="https://jaywcjlove.github.io/sb/ico/min-free.svg" height="16"/> <img src="icons/rhino.png" height="16"/> 
+* [Foliate](https://johnfactotum.github.io/foliate/) - A sleek, modern ebook reader that delivers an excellent reading experience for EPUB, MOBI, and Kindle formats. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/> <img src="icons/rhino.png" height="16"/> 
 
 ## Utilities
 
 * [GParted](https://gparted.org/) - A free partition editor for graphically managing your disk partitions.
-* [Planify](https://useplanify.com/whats-new/) - A native task management application for GNU/Linux with a minimalist, attractive interface. <img src="icons/bat.png" height="16"/> <img src="https://jaywcjlove.github.io/sb/ico/min-free.svg" height="16"/> <img src="icons/rhino.png" height="16"/> 
+* [Planify](https://useplanify.com/whats-new/) - A native task management application for GNU/Linux with a minimalist, attractive interface. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/> <img src="icons/rhino.png" height="16"/> 
 
 ## Contributing
 
@@ -45,8 +45,3 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 [OSS Icon]: icons/bat.png
 [Freeware Icon]: icons/crow.png
 [community-driven-icon]: icons/rhino.png
-
-## Credits
-Origami icons created by Freepik - Flaticon
-Rhino icons created by Freepik - Flaticon
-Bat icons created by Freepik - Flaticon
