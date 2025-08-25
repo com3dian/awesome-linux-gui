@@ -8,7 +8,7 @@ For many years, Linux GUI users struggled to find software that was both modern,
 
 ![Open-Source Software][OSS Icon] means **open source**. click the icon to see the item's repository;\
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
-![Community][community-driven-icon] means community driven;\
+![Community][community-driven-icon] means community driven;
 
 
 ## Contents
@@ -42,6 +42,11 @@ For many years, Linux GUI users struggled to find software that was both modern,
 
 Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
-[OSS Icon]: https://jaywcjlove.github.io/sb/ico/min-oss.svg
-[Freeware Icon]: https://jaywcjlove.github.io/sb/ico/min-free.svg
-[community-driven-icon]: https://jaywcjlove.github.io/sb/ico/min-community.svg
+[OSS Icon]: icons/bat.png
+[Freeware Icon]: icons/crow.png
+[community-driven-icon]: icons/rhino.png
+
+## Credits
+Origami icons created by Freepik - Flaticon
+Rhino icons created by Freepik - Flaticon
+Bat icons created by Freepik - Flaticon
