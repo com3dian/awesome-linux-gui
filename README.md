@@ -16,6 +16,7 @@ For many years, Linux GUI users struggled to find software that was both modern,
 - [Applications](#applications)
   - [Development](#development)
   - [Productivity](#productivity)
+  - [Media & Entertainment](#Media&Entertainment)
   - [Utilities](#utilities)
 - [Contributing](#contributing)
 
@@ -28,10 +29,12 @@ For many years, Linux GUI users struggled to find software that was both modern,
 ## Productivity
 
 * [LibreOffice](https://www.libreoffice.org/) - A free and open-source office suite. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/>
+* [QOwnNotes](https://www.qownnotes.org/) -  Free open source plain-text file markdown note-taking with Nextcloud / ownCloud integration. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/> <img src="icons/rhino.png" height="16"/>
 
 ## Media & Entertainment
 
 * [Foliate](https://johnfactotum.github.io/foliate/) - A sleek, modern ebook reader that delivers an excellent reading experience for EPUB, MOBI, and Kindle formats. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/> <img src="icons/rhino.png" height="16"/> 
+* [VLC media player](https://www.videolan.org/vlc/) - Powerful cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/>
 
 ## Utilities
 
