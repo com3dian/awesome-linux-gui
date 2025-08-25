@@ -14,9 +14,10 @@ For many years, Linux GUI users struggled to find software that was both modern,
 ## Contents
 
 - [Applications](#applications)
-  - [Development](#development)
+  - [Development  Tools](#development-tools)
+    - [Text Editors](#text-editors)
   - [Productivity](#productivity)
-  - [Media & Entertainment](#Media&Entertainment)
+  - [Media & Entertainment](#media--entertainment)
   - [Utilities](#utilities)
 - [Contributing](#contributing)
 
