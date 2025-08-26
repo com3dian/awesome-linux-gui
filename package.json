@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A curated list of awesome Linux GUI applications.",
   "scripts": {
-    "build": "idoc"
+    "build": "github:com3dian/idoc"
   },
   "devDependencies": {
     "idoc": "^1.26.5"
