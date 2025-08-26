@@ -33,13 +33,14 @@ jobs:
         with:
           node-version: 18
           cache: 'npm'
-      - name: Clean npm cache
-        run: npm cache clean --force
       - name: Install dependencies
-        run: npm install
-      - name: Debug idoc directory
+        run: npm ci
+      - name: Build idoc dependency
         run: |
-          ls -R node_modules/idoc
+          cd node_modules/idoc
+          npm install
+          npm run build
+          cd ../..
       - name: Build
         run: npm run build
       - name: Setup Pages
