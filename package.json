@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "A curated list of awesome Linux GUI applications.",
   "scripts": {
-    "build": "github:com3dian/idoc"
+    "build": "node node_modules/idoc/packages/core/lib/idoc.js"
   },
   "devDependencies": {
-    "idoc": "^1.26.5"
+    "idoc": "github:com3dian/idoc"
   }
 }
