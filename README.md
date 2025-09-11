@@ -34,6 +34,7 @@ For many years, Linux GUI users struggled to find software that was both modern,
 * [Kate](https://kate-editor.org/) - A fast multi-document, multi-view text editor for programmers by *KDE* with LSP support. <img src="icons/bat.png" height="16"/>
 * [Sublime Text](https://www.sublimetext.com/) - Beautiful editor, yet CJK support isn't flawless. <img src="icons/crow.png" height="16"/>
 * [VS Code](https://code.visualstudio.com/) - A powerful and popular code editor. <img src="icons/crow.png" height="16"/>
+* [WindSurf](https://windsurf.com/) - Another AI code editor.
 * [Zed](https://zed.dev/) - A code editor designed for high-performance collaboration with humans and AI, written in rust. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/>
 
 ### IDEs
@@ -50,6 +51,7 @@ For many years, Linux GUI users struggled to find software that was both modern,
 * [LibreOffice](https://www.libreoffice.org/) - A free and open-source office suite. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/>
 * [InkSpace](https://inkscape.org/) - A Free and open source vector graphics editor. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/> <img src="icons/rhino.png" height="16"/>
 * [Krita](https://krita.org/en/) - A full-featured digital art studio. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/> <img src="icons/rhino.png" height="16"/>
+* [QGIS]()
 * [WPS Office](https://www.wps.com/) - WPS office suite including Writer, Presentation and Spreadsheets. <img src="icons/bat.png" height="16"/>
 * [Zotero](https://www.zotero.org/) - A free, easy-to-use tool to help you collect, organize, cite, and share your research sources. <img src="icons/bat.png" height="16"/>
 
@@ -68,13 +70,13 @@ For many years, Linux GUI users struggled to find software that was both modern,
 
 * [Foliate](https://johnfactotum.github.io/foliate/) - A sleek, modern ebook reader that delivers an excellent reading experience for EPUB, MOBI, and Kindle formats. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/> <img src="icons/rhino.png" height="16"/>
 * [VLC media player](https://www.videolan.org/vlc/) - Powerful cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/>
-* [Zlibrary]()
+* [Zlibrary](https://www.reddit.com/r/zlibrary/wiki/index/access/) - An online shadow library that provides free access to millions of books, academic texts, and articles. <img src="icons/bat.png" height="16"/>
 
 ### Game
 
 * [Itch](https://itch.io/) - Platform for indie games. <img src="icons/bat.png" height="16"/>
 * [Steam]()
-* [RyuJinx]()
+* [RyuJinx](https://ryujinx.app/) - Nintendo Switch Emulator. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/> <img src="icons/rhino.png" height="16"/> 
 
 ## Utilities
 
