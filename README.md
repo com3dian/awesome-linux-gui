@@ -39,6 +39,10 @@ For many years, Linux GUI users struggled to find software that was both modern,
 
 ### IDEs
 
+* [Intellij IDEA](https://www.jetbrains.com/idea/) - Leading IDE for develop in java and kotlin.
+* [Pycharm](https://www.jetbrains.com/pycharm/) - Heavy Python IDE.
+* [Qt Creator](https://www.qt.io/product/development-tools) - IDE for C++  and QT. <img src="icons/bat.png" height="16"/>
+
 ### DevOps
 
 * [GitHub Desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop) - A seamless way to contribute to projects on GitHub and GitHub Enterprise. <img src="icons/crow.png" height="16"/>
