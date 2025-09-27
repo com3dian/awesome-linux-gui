@@ -53,6 +53,7 @@ For many years, Linux GUI users struggled to find software that was both modern,
 * [Blender](https://docs.blender.org/) - Model, animate, rig, & more in 3D. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/> <img src="icons/rhino.png" height="16"/>
 * [Draw.io](https://www.drawio.com/) - Create and share diagrams. <img src="icons/bat.png" height="16"/>
 * [InkSpace](https://inkscape.org/) - A Free and open source vector graphics editor. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/> <img src="icons/rhino.png" height="16"/>
+* [Frescobaldi](https://frescobaldi.org/) - A text editor to edit LilyPond sheet music files.
 * [Krita](https://krita.org/en/) - A full-featured digital art studio. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/> <img src="icons/rhino.png" height="16"/>
 * [QGIS](https://qgis.org/) - Spatial visualization and decision-making tools for everyone. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/> <img src="icons/rhino.png" height="16"/>
 * [Zotero](https://www.zotero.org/) - A free, easy-to-use tool to help you collect, organize, cite, and share your research sources. <img src="icons/bat.png" height="16"/>
@@ -88,7 +89,9 @@ For many years, Linux GUI users struggled to find software that was both modern,
 ## Utilities
 
 * [GParted](https://gparted.org/) - A free partition editor for graphically managing your disk partitions. [<img src="icons/bat.png" height="16"/>](https://github.com/GNOME/gparted) <img src="icons/crow.png" height="16"/> <img src="icons/rhino.png" height="16"/> 
+* [Motrix](https://motrix.app/) - A full-featured download manager. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/>
 * [Planify](https://useplanify.com/whats-new/) - A native task management application for GNU/Linux with a minimalist, attractive interface. [<img src="icons/bat.png" height="16"/>](https://github.com/alainm23/planify) <img src="icons/crow.png" height="16"/> <img src="icons/rhino.png" height="16"/>
+* [rime](https://rime.im/) - Input method engine for simlified and traditional chinese. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/> <img src="icons/rhino.png" height="16"/>
 * [Upscaler](https://github.com/upscayl/upscayl) - Upscale and enhance images. <img src="icons/bat.png" height="16"/> <img src="icons/crow.png" height="16"/> <img src="icons/rhino.png" height="16"/>
 
 ## Contributing
